@@ -1,4 +1,4 @@
-# Machine Learning Dashboard
+# Linier Regression Dashboard
 
 ## Overview
 
